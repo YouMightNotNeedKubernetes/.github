@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This is not associated with Docker or any of the tools suggested here.
+> This is not associated with Docker nor Kubernetes or any of the tools suggested here.
 
 > [!WARNING]
 >
